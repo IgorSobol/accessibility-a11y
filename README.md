@@ -58,3 +58,10 @@
 * Add `aria-hidden="true"` to svg that is decorative.
 * Make sure that svg utilizing the use element has whitespace between the svg and use elements.
 * Ensure that img elements with an svg source includes the role="img" attribute.
+
+## Materials
+* https://www.a11yproject.com/
+* https://www.wuhcag.com/
+
+## More
+* https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
