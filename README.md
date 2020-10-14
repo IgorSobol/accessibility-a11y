@@ -62,6 +62,8 @@
 ## Materials
 * https://www.a11yproject.com/
 * https://www.wuhcag.com/
+* https://github.com/dequelabs/react-axe#readme
+* https://a11yresources.webflow.io/
 
 ## More
 * https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
