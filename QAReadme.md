@@ -5,6 +5,7 @@
 
 1. [https://habr.com/ru/post/470091/](https://habr.com/ru/post/470091/) - "Accessibility Testing: что это такое и почему это важно"
 2. [https://www.testingxperts.com/blog/Why-Accessibility-Testing-is-Important](https://www.testingxperts.com/blog/Why-Accessibility-Testing-is-Important) - "Why Accessibility Testing is Important"
+3. [https://help.shopify.com/en/manual/online-store/os/using-themes/change-the-layout/accessibility](https://help.shopify.com/en/manual/online-store/os/using-themes/change-the-layout/accessibility) - Shopify Accessibility check for developers
 
 
 Utils
