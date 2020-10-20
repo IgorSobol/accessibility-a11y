@@ -1,12 +1,10 @@
 ## QA test a11y flow
 
-### Список
+### Sources
 -----
 
-1. Пункт 1
-2. Пункт 2
-3. Пункт 3
-4. 😀 Пункт 4
+1. [https://habr.com/ru/post/470091/](https://habr.com/ru/post/470091/) - "Accessibility Testing: что это такое и почему это важно"
+2. [https://www.testingxperts.com/blog/Why-Accessibility-Testing-is-Important](https://www.testingxperts.com/blog/Why-Accessibility-Testing-is-Important) - "Why Accessibility Testing is Important"
 
 
 Utils
